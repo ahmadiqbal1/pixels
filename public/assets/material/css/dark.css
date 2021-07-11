@@ -1,0 +1,185 @@
+body{
+	background:#1B2024;
+	color:#8c9e9f;
+}
+
+.content{
+	background:#1B2024;
+}
+
+.headerSocial, .footer{
+    background-color: #17181B;
+}
+
+.headerSocial{
+	border-bottom: 1px solid #17181B;
+}
+
+.footer{
+	border-top: 1px solid #17181B;
+}
+
+.item{
+	background:#32393D;
+	border:0px;
+}
+
+#side-loader{
+	background:#1B2024;
+}
+
+.morph-shape{
+	fill:#1B2024;
+}
+
+.thumbnail{
+	background:#2B3034;
+	border:0px;
+}
+
+#blog .latest-downloads a span, #post .sidebar a span{
+	color:#ccc;
+}
+
+#blog .latest-downloads a, #post .sidebar a{
+	border:0px;
+}
+
+.headerMenu .dropdown:hover .dropdown-menu, .dropdown-menu{
+	background:#11191C;
+}
+
+.navbar-nav > li a:hover{
+	color:#ea1042;
+}
+
+.headerMenu .menu{
+	border-bottom: 1px solid #2B3034;
+}
+
+.imagescnt, .popular-child, .most-child, .img_popular, .alsoimg > a > div{
+	background:#2B3034;
+}
+
+.sharedownload{
+	background:#3B4044;
+}
+
+.share a{
+	color:#fff;
+	border:0px;
+}
+
+.share_twitter a{
+	background:#0CBCFF;
+}
+
+.share_twitter a:hover{
+	background:#8ADFFF;
+}
+
+.share_facebook a{
+	background:#336FA9;
+}
+
+.share_facebook a:hover{
+	background:#99B7D4;
+}
+
+.share_pinterest a{
+    background: #EA1922;
+}
+
+.share_pinterest a:hover{
+	background:#F58D91;
+}
+
+.share_google a{
+	background:#EA6322;
+}
+
+.share_google a:hover{
+	background:#F5B292;
+}
+
+.socialIcon.facebook {
+    border-left: 1px solid #23292f;
+}
+
+.socialIcon{
+	border-right: 1px solid #23292f;
+}
+
+.socialIcon:hover{
+	background:#1B2024;
+}
+
+.dropfixed{
+	background:#2B3034;
+}
+
+.headerMenu .nav-tabs>li>a{
+	color:#ccc;
+}
+
+.modal-backdrop{
+	background:#22292f;
+}
+
+#modalpage h1, #modalpage button.close{
+	color:#ccc;
+}
+
+.item>a.content_item{
+	border-top:1px solid #4B4054;
+}
+
+.row h3, .titlepop{
+	color:#bbb;
+}
+
+.content .row >h1{
+	color:#7C8E93;
+}
+
+.titledownload p a{
+	color:#90A0C0;
+}
+
+.panel{
+	background:#2B3034;
+}
+
+.panel-default>.panel-heading{
+	background:#3B4044;
+	color:#ccc;
+}
+
+.btn.btn-link{
+	border: 1px solid #ccc;
+    color: #ccc;
+}
+
+.table-striped>tbody>tr:nth-child(odd)>td, .table-striped>tbody>tr:nth-child(odd)>th{
+	background:#333;
+}
+
+.table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td{
+	border-color:#393939;
+}
+
+.adminlogin, .adsadmin, .admincate{
+	border-color:#333;
+}
+
+.adminlogin label, .adsadmin label, .admincate label{
+	background:#1B2024;
+}
+
+.imagescnt, .alsoimg > a, .popular-child, .most-child{
+	border:0px;
+}
+
+.post_body hr{
+	border-color:#333;
+}
